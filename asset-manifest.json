@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/todoauth/static/js/main.4bb41569.chunk.js",
+    "main.js.map": "/todoauth/static/js/main.4bb41569.chunk.js.map",
+    "runtime-main.js": "/todoauth/static/js/runtime-main.ff31efcd.js",
+    "runtime-main.js.map": "/todoauth/static/js/runtime-main.ff31efcd.js.map",
+    "static/css/2.94c82b55.chunk.css": "/todoauth/static/css/2.94c82b55.chunk.css",
+    "static/js/2.d0932489.chunk.js": "/todoauth/static/js/2.d0932489.chunk.js",
+    "static/js/2.d0932489.chunk.js.map": "/todoauth/static/js/2.d0932489.chunk.js.map",
+    "static/js/3.d53f6bab.chunk.js": "/todoauth/static/js/3.d53f6bab.chunk.js",
+    "static/js/3.d53f6bab.chunk.js.map": "/todoauth/static/js/3.d53f6bab.chunk.js.map",
+    "index.html": "/todoauth/index.html",
+    "static/css/2.94c82b55.chunk.css.map": "/todoauth/static/css/2.94c82b55.chunk.css.map",
+    "static/js/2.d0932489.chunk.js.LICENSE.txt": "/todoauth/static/js/2.d0932489.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff31efcd.js",
+    "static/css/2.94c82b55.chunk.css",
+    "static/js/2.d0932489.chunk.js",
+    "static/js/main.4bb41569.chunk.js"
+  ]
+}
